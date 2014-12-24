@@ -31,21 +31,16 @@
       </div>
     </div>
     
+    <style>
+      .jumbotron p {
+        color: blue;
+        font-size: 15px;
+        font-family: Monotype Corsiva;
+      }
+    </style>
+    
     <div class="jumbotron">
       <h1>Young Bird</h1>
       <p>Poem Stuff</p>
     </div>
   </html>
-
-<!DOCTYPE css>
-<css>
-
-
-
-.jumbotron p {
-  color: blue;
-  font-size: 15px;
-  font-family: Monotype Corsiva;
-}
-
-</css>
