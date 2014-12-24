@@ -1,1 +1,49 @@
-"Hello World."
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="main.css">
+    
+    </head>
+    
+      <body>
+    <div class="nav">
+      <div class="container">
+        <ul class="pull-left">
+        <ul class="nav nav-tabs">
+          <li><a href="#">Home</a></li>
+          <li class="active"><a href="http://18PooleS.github.io/Mommy">Mommy</a></li>
+          <li><a href="#">Daddy</a></li>
+          <li><a href="http://18PooleS.github.io/Nikhita">Nikhita</a></li>
+          <li><a href="#">Nikhil</a></li>
+          <li><a href="#">Shadow</a></li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="jumbotron">
+      <h1>Young Bird</h1>
+      <p>Poem Stuff</p>
+    </div>
+  </html>
+
+<!DOCTYPE css>
+<css>
+
+.jumbotron h1 {
+  color: green;
+  font-size: 30px;
+  font-family: 'Shift', times;
+  font-weight: bold;
+  margin-bottom: 20px;
+
+.jumbotron p {
+  color: blue;
+  font-size: 15px;
+  font-family: Monotype Corsiva;
+}
+
+</css>
