@@ -1,1 +1,75 @@
-"Hola Mundo."
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="main.css">
+  </head>
+    
+  <body>
+      
+    <style>
+      .jumbotron h1 {
+        color: green;
+        font-size: 30px;
+        font-family: 'Shift', times;
+        font-weight: bold;
+        margin-bottom: 20px;
+      }
+    </style>
+            
+    <div class="nav">
+      <div class="container">
+        <ul class="pull-left">
+        <ul class="nav nav-tabs">
+          <li><a href="http://18PooleS.github.io">Home</a></li>
+          <li><a href="http://18PooleS.github.io/Mommy">Mommy</a></li>
+          <li><a href="http://18PooleS.github.io/Daddy">Daddy</a></li>
+          <li class="active"><a href="http://18PooleS.github.io/Nikhita">Nikhita</a></li>
+          <li><a href="http://18PooleS.github.io/Nikhil">Nikhil</a></li>
+          <li><a href="http://18PooleS.github.io/Shadow">Shadow</a></li>
+        </ul>
+      </div>
+    </div>
+    
+    <style>
+      .jumbotron p {
+        color: blue;
+        font-size: 15px;
+        font-family: Monotype Corsiva;
+      }
+    </style>
+    
+    <div class="jumbotron">
+      <h1>The Dark in the Day</h1>
+      <p>
+        I used to think that life was dark,
+        That life was dim, that life was stark,
+        But then came a light,
+        That shined so bright,
+        That life seemed no longer dark as night.
+
+        I used to think that happy meant fun,
+        That happy meant safe, that happy meant sun,
+        That happy was good,
+        And not so dark,
+        That happy was a way to escape if we could.
+
+        I used to think that freedom would come,
+        That freedom would save us from the dark we succumb,
+        That freedom would win,
+        That freedom would bind,
+        That freedom would blaze us a path we could find.
+
+        Then the light went away,
+        And happy sketched gray,
+        And freedom was once again led astray.
+
+        But life no longer seemed dark as night,
+        Life now seemed cheery and bright.
+        And now I don’t think of the light led astray,
+        I think of the dark spot in the day.
+      </p>
+    </div>
+</html>
