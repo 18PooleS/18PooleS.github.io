@@ -36,7 +36,7 @@
     <style>
       .jumbotron p {
         color: blue;
-        font-size: 15px;
+        font-size: 25px;
         font-family: Monotype Corsiva;
       }
     </style>
