@@ -1,1 +1,90 @@
-"Hola Mundo."
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="main.css">
+  </head>
+    
+  <body>
+      
+    <style>
+      .jumbotron h1 {
+        color: green;
+        font-size: 30px;
+        font-family: 'Shift', times;
+        font-weight: bold;
+        margin-bottom: 20px;
+      }
+    </style>
+            
+    <div class="nav">
+      <div class="container">
+        <ul class="pull-left">
+        <ul class="nav nav-tabs">
+          <li><a href="http://18PooleS.github.io">Home</a></li>
+          <li class="active"><a href="http://18PooleS.github.io/Mommy">Mommy</a></li>
+          <li><a href="http://18PooleS.github.io/Daddy">Daddy</a></li>
+          <li><a href="http://18PooleS.github.io/Nikhita">Nikhita</a></li>
+          <li><a href="http://18PooleS.github.io/Nikhil">Nikhil</a></li>
+          <li><a href="http://18PooleS.github.io/Shadow">Shadow</a></li>
+        </ul>
+      </div>
+    </div>
+    
+    <style>
+      .jumbotron p {
+        color: blue;
+        font-size: 15px;
+        font-family: Monotype Corsiva;
+      }
+    </style>
+    
+    <div class="jumbotron">
+      <h1>Dark, Light</h1>
+
+<pre>
+Dark
+Light
+Darker
+Lighter
+Opposite
+Strangely
+But similar
+More strange
+Like the world.
+We see the darks
+They surround us
+Sad, lonely, gloomy
+Oppressive, sadder
+Sadder than we can be.
+Negotiators of death,
+The essence of scarred,
+Both scarred and scared.
+But maybe not as we assume.
+Darks; they are in disguise
+So we can&#39t mark them for what
+They really are; really can be.
+Making our hearts beat faster,
+They can make us even more alive.
+Making stars seem even brighter –
+Without dark there can be no light,
+Not as we see the light, not cheerful,
+Not happy, not carefree, not pleasant,
+Just simply… there, existing aside us.
+Light outlines dark, they&#39re opposites,
+But similarly, they depend on each other
+Simply dependent on how we choose to look
+We see them as dark, light, as darker, lighter
+Or we can see them as lighter and then darker.
+It is a cycle you see, and somehow it never ends
+But sometimes choices are not but ours to make
+They can take away the disguise which they wear
+Show their true colors, but for now, they are just
+Just among us: dark, light, darker, lighter it seems.
+Dark, light, darker, lighter, but strangely, similar.
+</pre>
+
+    </div>
+</html>
